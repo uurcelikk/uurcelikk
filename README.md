@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uğur Çelik</h1>
-- 🔭 Focus Areas **Data|ML|DL|GENAI|LLM**
+
+- 🔭 Focus Areas **Data/ML/DL**
 
 - 🌱 I’m currently learning **GenAI/LLM**
 
